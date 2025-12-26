@@ -41,8 +41,6 @@ Dưới đây là một số dự án tiêu biểu tôi đã thực hiện trong
 | **[An Giang Tourism]([https://github.com/HuynhPPP](https://angiangtourism.netlify.app/))** | `React JS` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Developing` |
 | **[E-commerce]([https://github.com/HuynhPPP](https://e-commerce-xstore.netlify.app/))** | `React Rest API` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Developing` |
 
-> *Lưu ý: Bạn hãy thay đổi link dự án thực tế của mình vào các mục trên nhé!*
-
 ---
 
 ### 📊 GitHub Stats
