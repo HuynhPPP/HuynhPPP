@@ -37,9 +37,9 @@ Dưới đây là một số dự án tiêu biểu tôi đã thực hiện trong
 
 | Dự án | Công nghệ | Stars | Forks | Trạng thái |
 | :--- | :---: | :---: | :---: | :---: |
-| **[My Portfolio](https://github.com/HuynhPPP)** | `React` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Completed` |
-| **[Web Project 1](https://github.com/HuynhPPP)** | `PHP, SQL` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Developing` |
-| **[E-commerce App](https://github.com/HuynhPPP)** | `MERN Stack` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Research` |
+| **[My Portfolio]([https://github.com/HuynhPPP](https://huynhphanportofilo.netlify.app/))** | `React` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Completed` |
+| **[An Giang Tourism]([https://github.com/HuynhPPP](https://angiangtourism.netlify.app/))** | `PHP, SQL` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Developing` |
+| **[E-commerce]([https://github.com/HuynhPPP](https://e-commerce-xstore.netlify.app/))** | `MERN Stack` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Research` |
 
 > *Lưu ý: Bạn hãy thay đổi link dự án thực tế của mình vào các mục trên nhé!*
 
