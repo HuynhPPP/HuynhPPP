@@ -43,12 +43,16 @@ Dưới đây là một số dự án tiêu biểu tôi đã thực hiện trong
 
 ---
 
-### 📊 GitHub Stats
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HuynhPPP&theme=darkhub&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
 </p>
+
+### 📈 Contribution Graph
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/HuynhPPP/HuynhPPP/output/github-contribution-grid-snake.svg)
 
 ---
 
