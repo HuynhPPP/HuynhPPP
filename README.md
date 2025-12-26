@@ -43,24 +43,6 @@ Dưới đây là một số dự án tiêu biểu tôi đã thực hiện trong
 
 ---
 
-### 🏆 GitHub Trophy
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HuynhPPP&theme=darkhub&no-bg=true&column=7" /></a>
-</p>
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=dark&hide_border=false" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=dark&hide_border=false" height="150" />
-</p>
-
-### 📈 Contribution Graph
-<p align="left">
-<img src="https://raw.githubusercontent.com/HuynhPPP/HuynhPPP/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ### 🤝 Connect with me
 * 🏠 **Portfolio:** [huynhphanportofilo.netlify.app](https://huynhphanportofilo.netlify.app)
 * 📧 **Email:** tankhuong02@gmail.com
