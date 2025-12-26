@@ -25,7 +25,7 @@ Tôi sử dụng các ngôn ngữ và công cụ sau để hiện thực hóa c�
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,react,express,mongodb,nodejs,mysql,dbeaver,git,github,vscode,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,react,express,mongodb,nodejs,mysql,git,github,vscode,netlify,postman" />
   </a>
 </p>
 
