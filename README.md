@@ -25,7 +25,7 @@ Tôi sử dụng các ngôn ngữ và công cụ sau để hiện thực hóa c�
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,react,express,mysql,git,github,vscode,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,react,express,mongodb,nodejs,mysql,dbeaver,git,github,vscode,netlify,postman" />
   </a>
 </p>
 
@@ -35,24 +35,29 @@ Tôi sử dụng các ngôn ngữ và công cụ sau để hiện thực hóa c�
 
 Dưới đây là một số dự án tiêu biểu tôi đã thực hiện trong quá trình học tập:
 
-| Dự án | Công nghệ | Stars | Forks | Trạng thái |
-| :--- | :---: | :---: | :---: | :---: |
-| **[My Portfolio]([https://github.com/HuynhPPP](https://huynhphanportofilo.netlify.app/))** | `HTML, CSS, JS` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Completed` |
-| **[An Giang Tourism]([https://github.com/HuynhPPP](https://angiangtourism.netlify.app/))** | `React JS` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Developing` |
-| **[E-commerce]([https://github.com/HuynhPPP](https://e-commerce-xstore.netlify.app/))** | `React Rest API` | ![Stars](https://img.shields.io/github/stars/HuynhPPP/HuynhPPP?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/HuynhPPP/HuynhPPP?style=flat-square) | `Developing` |
+| Dự án | Công nghệ | Link Demo | Trạng thái |
+| :--- | :--- | :---: | :---: |
+| **An Giang Tourism** | `ReactJS, PHP, MySQL` | [Link](https://angiangtourism.netlify.app/) | `Developing` |
+| **E-commerce** | `React, Rest API` | [Link](https://e-commerce-xstore.netlify.app/) | `Developing` |
+| **My Portfolio** | `HTML, CSS, JS` | [Link](https://huynhphanportofilo.netlify.app/) | `Completed` |
 
 ---
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HuynhPPP&theme=darkhub&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophy
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HuynhPPP&theme=darkhub&no-bg=true&column=7" /></a>
+</p>
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=dark&hide_border=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=dark&hide_border=false" height="150" />
 </p>
 
 ### 📈 Contribution Graph
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/HuynhPPP/HuynhPPP/output/github-contribution-grid-snake.svg)
+<p align="left">
+<img src="https://raw.githubusercontent.com/HuynhPPP/HuynhPPP/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
