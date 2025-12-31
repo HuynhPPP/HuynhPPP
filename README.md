@@ -39,7 +39,7 @@ Here are some notable projects I have developed during my academic journey:
 | :--- | :--- | :---: | :---: |
 | **An Giang Tourism** | `ReactJS, PHP, MySQL` | [Link](https://angiangtourism.netlify.app/) | `In Progress` |
 | **E-commerce** | `React, REST API` | [Link](https://e-commerce-xstore.netlify.app/) | `In Progress` |
-| **Chat Web App** | `React, Type Script, Mongoose` | [Github link](https://github.com/HuynhPPP/Chat-Web-App), undeployment) | `In Progress` |
+| **Chat Web App** | `React, Type Script, Mongoose` | [Github link](https://github.com/HuynhPPP/Chat-Web-App), undeployment | `In Progress` |
 | **My Portfolio** | `HTML, CSS, JS` | [Link](https://huynhphanportofilo.netlify.app/) | `Completed` |
 
 
