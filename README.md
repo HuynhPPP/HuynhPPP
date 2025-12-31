@@ -11,17 +11,17 @@
 
 ### 👨‍💻 About Me
 
-Tôi là sinh viên ngành **Công nghệ thông tin** tại **Trường Đại học Kỹ thuật - Công nghệ Cần Thơ**. Với đam mê mãnh liệt trong lĩnh vực **Web Development**, tôi luôn tò mò về cách vận hành và duy trì các hệ thống website có quy mô người dùng lớn.
+I am an **Information Technology** student at **Can Tho University of Technology (CTUT)**. Driven by a deep passion for **Web Development**, I am constantly exploring how large-scale web systems operate and maintain high performance for a massive number of users.
 
-* 🎓 **Hiện tại:** Tập trung nghiên cứu sâu về các công nghệ Web và cải thiện tiếng Anh chuyên ngành.
-* 💡 **Sở thích:** Phát triển website cá nhân để thực hành, tìm hiểu về bảo trì hệ thống và tối ưu hóa trải nghiệm người dùng.
-* 🚀 **Mục tiêu:** Trở thành một Web Developer chuyên nghiệp và đóng góp giá trị cho cộng đồng công nghệ.
+* 🎓 **Currently:** Deep diving into Web technologies and enhancing my technical English proficiency.
+* 💡 **Interests:** Building personal web projects for practice, researching system maintenance, and optimizing user experience (UX).
+* 🚀 **Goals:** Becoming a professional Web Developer and contributing valuable solutions to the tech community.
 
 ---
 
 ### 🛠 My Toolbox
 
-Tôi sử dụng các ngôn ngữ và công cụ sau để hiện thực hóa các ý tưởng của mình:
+I leverage these languages and tools to turn ideas into reality:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,19 +33,27 @@ Tôi sử dụng các ngôn ngữ và công cụ sau để hiện thực hóa c�
 
 ### 🚀 Featured Projects
 
-Dưới đây là một số dự án tiêu biểu tôi đã thực hiện trong quá trình học tập:
+Here are some notable projects I have developed during my academic journey:
 
-| Dự án | Công nghệ | Link Demo | Trạng thái |
+| Project | Tech Stack | Live Demo | Status |
 | :--- | :--- | :---: | :---: |
-| **An Giang Tourism** | `ReactJS, PHP, MySQL` | [Link](https://angiangtourism.netlify.app/) | `Developing` |
-| **E-commerce** | `React, Rest API` | [Link](https://e-commerce-xstore.netlify.app/) | `Developing` |
+| **An Giang Tourism** | `ReactJS, PHP, MySQL` | [Link](https://angiangtourism.netlify.app/) | `In Progress` |
+| **E-commerce** | `React, REST API` | [Link](https://e-commerce-xstore.netlify.app/) | `In Progress` |
 | **My Portfolio** | `HTML, CSS, JS` | [Link](https://huynhphanportofilo.netlify.app/) | `Completed` |
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=dark&hide_border=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=dark&hide_border=false" height="150" />
+</p>
 
 ---
 
 ### 🤝 Connect with me
 * 🏠 **Portfolio:** [huynhphanportofilo.netlify.app](https://huynhphanportofilo.netlify.app)
 * 📧 **Email:** tankhuong02@gmail.com
-* 📍 **Location:** Cần Thơ, Việt Nam
+* 📍 **Location:** Can Tho, Vietnam
 
 "Learning is a lifelong journey." 📖
