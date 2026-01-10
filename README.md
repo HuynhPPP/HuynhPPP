@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hi.gif" width="30px"> Hi there, I'm Huỳnh Tấn Khương (he/him)
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=waving&color=0078d7&height=200&section=header&text=Huỳnh%20Tấn%20Khương&fontSize=60&animation=fadeIn&fontAlignY=35" /></p>
 
-<p align="left">
+<p align="center">
   <a href="https://huynhphanportofilo.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.facebook.com/huynh.phan.261218"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="mailto:tankhuong02@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -9,17 +9,19 @@
 
 ---
 
-### 🚀 Giới thiệu về mình
+### 👨‍💻 About Me
 
-I am an **Information Technology** student at **Can Tho University of Technology (CTUT)**. Driven by a deep passion for **Web Development**.
+I am an **Information Technology** student at **Can Tho University of Technology (CTUT)**. Driven by a deep passion for **Web Development**, I am constantly exploring how large-scale web systems operate and maintain high performance for a massive number of users.
 
-- 🔭 I’m currently working on **ReactJS Projects**
-- 🌱 I’m currently learning **Advanced Backend & System Design**
-- ⚡ Fun fact: **"Learning is a lifelong journey."**
+* 🎓 **Currently:** Deep diving into Web technologies and enhancing my technical English proficiency.
+* 💡 **Interests:** Building personal web projects for practice, researching system maintenance, and optimizing user experience (UX).
+* 🚀 **Goals:** Becoming a professional Web Developer and contributing valuable solutions to the tech community.
 
 ---
 
-### 🛠 My Toolbox (Modern Icons)
+### 🛠 My Toolbox
+
+I leverage these languages and tools to turn ideas into reality:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,17 +31,30 @@ I am an **Information Technology** student at **Can Tho University of Technology
 
 ---
 
-### 📊 GitHub Stats (Custom Theme)
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Link | Status |
+| :--- | :--- | :---: | :---: |
+| **An Giang Tourism** | <img src="https://skillicons.dev/icons?i=react,css" height="25"> | [Demo](https://angiangtourism.netlify.app/) | `🏗️ In Progress` |
+| **E-commerce** | <img src="https://skillicons.dev/icons?i=react,js" height="25"> | [Demo](https://e-commerce-xstore.netlify.app/) | `🏗️ In Progress` |
+| **Chat Web App** | <img src="https://skillicons.dev/icons?i=ts,mongodb,express" height="25"> | [Github](https://github.com/HuynhPPP/Chat-Web-App) | `🏗️ In Progress` |
+| **My Portfolio** | <img src="https://skillicons.dev/icons?i=html,css,js" height="25"> | [Demo](https://huynhphanportofilo.netlify.app/) | `✅ Completed` |
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=radical&rank_icon=github" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=radical" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=radical&hide_border=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=radical&hide_border=false" height="150" />
 </p>
 
 ---
 
-### 🎬 Featured Projects
-| Project | Tech Stack | Link | Status |
-| :--- | :--- | :---: | :---: |
-| **An Giang Tourism** | <img src="https://skillicons.dev/icons?i=react" height="20"> | [Demo](https://angiangtourism.netlify.app/) | `🏗️` |
-| **E-commerce** | <img src="https://skillicons.dev/icons?i=react,js" height="20"> | [Demo](https://e-commerce-xstore.netlify.app/) | `🏗️` |
-| **Chat Web App** | <img src="https://skillicons.dev/icons?i=ts,mongodb" height="20"> | [Repo](https://github.com/HuynhPPP/Chat-Web-App) | `🏗️` |
+### 🤝 Connect with me
+<p align="left">
+<a href="https://huynhphanportofilo.netlify.app"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="mailto:tankhuong02@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="https://www.facebook.com/huynh.phan.261218"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+</p>
+
+*"Learning is a lifelong journey."* 📖
