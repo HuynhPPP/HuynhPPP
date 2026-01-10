@@ -1,10 +1,10 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=waving&color=0078d7&height=200&section=header&text=Huỳnh%20Tấn%20Khương&fontSize=60&animation=fadeIn&fontAlignY=35" /></p>
+# Hi there, I'm Huỳnh Tấn Khương (he/him) 🚀
 
-<p align="center">
-  <a href="https://huynhphanportofilo.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.facebook.com/huynh.phan.261218"><img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:tankhuong02@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HuynhPPP"><img src="https://img.shields.io/badge/-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="left">
+<a href="https://huynhphanportofilo.netlify.app"><img src="https://img.shields.io/badge/MY_PORTFOLIO-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
+<a href="https://www.facebook.com/huynh.phan.261218"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="mailto:tankhuong02@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/HuynhPPP"><img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@ I leverage these languages and tools to turn ideas into reality:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,react,express,mongodb,nodejs,mysql,git,github,vscode,netlify,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,php,react,express,mongodb,nodejs,mysql,git,github,vscode,netlify,postman" />
   </a>
 </p>
 
@@ -33,28 +33,22 @@ I leverage these languages and tools to turn ideas into reality:
 
 ### 🚀 Featured Projects
 
-| Project | Tech Stack | Link | Status |
+Here are some notable projects I have developed during my academic journey:
+
+| Project | Tech Stack | Live Demo | Status |
 | :--- | :--- | :---: | :---: |
-| **An Giang Tourism** | <img src="https://skillicons.dev/icons?i=react,css" height="25"> | [Demo](https://angiangtourism.netlify.app/) | `🏗️ In Progress` |
-| **E-commerce** | <img src="https://skillicons.dev/icons?i=react,js" height="25"> | [Demo](https://e-commerce-xstore.netlify.app/) | `🏗️ In Progress` |
-| **Chat Web App** | <img src="https://skillicons.dev/icons?i=ts,mongodb,express" height="25"> | [Github](https://github.com/HuynhPPP/Chat-Web-App) | `🏗️ In Progress` |
-| **My Portfolio** | <img src="https://skillicons.dev/icons?i=html,css,js" height="25"> | [Demo](https://huynhphanportofilo.netlify.app/) | `✅ Completed` |
+| **An Giang Tourism** | `ReactJS` | [Link](https://angiangtourism.netlify.app/) | `In Progress` |
+| **E-commerce** | `React, REST API` | [Link](https://e-commerce-xstore.netlify.app/) | `In Progress` |
+| **Chat Web App** | `React, Type Script, Mongoose` | [Github link](https://github.com/HuynhPPP/Chat-Web-App), undeployment | `In Progress` |
+| **My Portfolio** | `HTML, CSS, JS` | [Link](https://huynhphanportofilo.netlify.app/) | `Completed` |
+
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=radical&hide_border=false" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=radical&hide_border=false" height="150" />
-</p>
-
----
 
 ### 🤝 Connect with me
-<p align="left">
-<a href="https://huynhphanportofilo.netlify.app"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
-<a href="mailto:tankhuong02@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-<a href="https://www.facebook.com/huynh.phan.261218"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-</p>
+* 🏠 **Portfolio:** [huynhphanportofilo.netlify.app](https://huynhphanportofilo.netlify.app)
+* 📧 **Email:** tankhuong02@gmail.com
+* 📍 **Location:** Can Tho, Vietnam
 
-*"Learning is a lifelong journey."* 📖
+"Learning is a lifelong journey." 📖
