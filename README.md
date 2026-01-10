@@ -45,13 +45,6 @@ Here are some notable projects I have developed during my academic journey:
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=HuynhPPP&show_icons=true&theme=dark&hide_border=false" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhPPP&layout=compact&theme=dark&hide_border=false" height="150" />
-</p>
-
----
 
 ### 🤝 Connect with me
 * 🏠 **Portfolio:** [huynhphanportofilo.netlify.app](https://huynhphanportofilo.netlify.app)
