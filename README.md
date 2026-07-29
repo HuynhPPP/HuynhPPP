@@ -25,7 +25,7 @@ I leverage these languages and tools to turn ideas into reality:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,react,express,mongodb,nodejs,mysql,git,github,vscode,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,mongodb,nodejs,mysql,postman" />
   </a>
 </p>
 
